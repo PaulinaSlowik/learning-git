@@ -1,1 +1,2 @@
 Przykładowa treść
+wprowadzona zmiana do testowania git pull
